@@ -1,4 +1,4 @@
-# ObjectTracking
+# Object Tracking
 
 This is a console implementation of the program designed to track objects in user's interest.
 
